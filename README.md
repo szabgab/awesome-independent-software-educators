@@ -5,12 +5,22 @@ This is a collection of places run by individuals or by small teams where you ca
 Each site offers some free content and either monthly subscription or on-time payments for individual courses.
 
 
+## Perl
+
+* [Geekuni](https://www.geekuni.com/) by Andrew Solomon
+* [Perl School](https://perlschool.com/) by Dave Cross
+
 ## Python
 
-* [Talk Python](https://talkpython.fm/) - podcast and [Python courses](https://training.talkpython.fm/courses/all)
+* [Talk Python](https://talkpython.fm/) - podcast and [Python courses](https://training.talkpython.fm/courses/all) - Michael Kennedy
 * [Real Python](https://realpython.com/) - tutorials and video courses.
 * [Reuven Lerner](https://store.lerner.co.il/) - Python, Data Science, git
 * [Life Michael](https://academy.lifemichael.com/en/) - A single Python course
+* [Teclado (Jose Salvatierra)](https://teclado.com/)
+* [Dan Bader](https://dbader.org/)
+* [Testdriven.io](https://testdriven.io/)
+* [Invent with Python](https://inventwithpython.com/) by [Al Sweigart](https://alsweigart.com/)
+* [Trey Hunner](https://treyhunner.com/)
 
 ## Ruby
 
@@ -22,7 +32,7 @@ Each site offers some free content and either monthly subscription or on-time pa
 
 ## Software development practices
 
-* [Dave Farley](https://www.davefarley.net/) - [Modern Software Engineering](http://modernsoftwareengineering.co.uk/) - [CD Training](https://courses.cd.training/) - Continuous Deployment
+* [Dave Farley](https://www.davefarley.net/) - [Modern Software Engineering](http://modernsoftwareengineering.co.uk/) - [CD Training](https://courses.cd.training/) - Continuous Deployment - [YouTube](https://www.youtube.com/@ModernSoftwareEngineeringYT/)
 
 
 ## MOOCs - Everything
@@ -45,6 +55,7 @@ See also the [Learnopoly reviews](https://learnopoly.com/)
 * [Boot.dev](https://www.boot.dev/)
 * [Superprof](https://www.superprof.com/) - private tutors
 * [Arjan Codes](https://www.arjancodes.com/)
+* [Coding for Entrepreneurs](https://www.codingforentrepreneurs.com/)
 
 
 ## In Hebrew
