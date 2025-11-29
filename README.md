@@ -1,5 +1,7 @@
 # Awesome subscriptions
 
+Subscription services and individual course to learn about various aspects of programming.
+
 
 ## Python
 
