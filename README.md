@@ -1,6 +1,8 @@
-# Awesome subscriptions
+# Awesome independent software educators
 
-Subscription services and individual course to learn about various aspects of programming.
+This is a collection of places run by individuals or by small teams where you can learn programing or improve your knowledge.
+
+Each site offers some free content and either monthly subscription or on-time payments for individual courses.
 
 
 ## Python
@@ -18,8 +20,12 @@ Subscription services and individual course to learn about various aspects of pr
 
 * [Let's Get Rusty](https://learn.letsgetrusty.com/)
 
+## Software development practices
 
-## Everything
+* [Dave Farley](https://www.davefarley.net/) - [Modern Software Engineering](http://modernsoftwareengineering.co.uk/) - [CD Training](https://courses.cd.training/) - Continuous Deployment
+
+
+## MOOCs - Everything
 
 * [Udemy](https://www.udemy.com/) individual courses about everything
 * [Skillshare](https://www.skillshare.com/)
@@ -39,7 +45,6 @@ See also the [Learnopoly reviews](https://learnopoly.com/)
 * [Boot.dev](https://www.boot.dev/)
 * [Superprof](https://www.superprof.com/) - private tutors
 * [Arjan Codes](https://www.arjancodes.com/)
-* [Dave Farley](https://www.davefarley.net/) - [Modern Software Engineering](http://modernsoftwareengineering.co.uk/) - [CD Training](https://courses.cd.training/) - Continuous Deployment
 
 
 ## In Hebrew
